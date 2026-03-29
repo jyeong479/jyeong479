@@ -28,4 +28,4 @@
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyeong479&layout=donut)](https://github.com/jyeong479)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeong479&layout=compact&theme=radical" height="150px"/>
